@@ -1,0 +1,67 @@
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+body{
+  background-color: pink;
+}
+
+
+
+.heading{
+  /* height: 70px; */
+  line-height: 70px;
+  text-align: center;
+  background-color: #ffb2b2;
+  width: 1000px;
+  margin: auto;
+  font-size: 30px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.space{
+  height: 5px;
+}
+
+.space1{
+  height: 15px;
+}
+
+.heading1{
+  /* height: 70px; */
+  line-height: 70px;
+  /* text-align: center; */
+  background-color: #ffb2b2;
+  width: 1000px;
+  margin: auto;
+  font-size: 20px;
+  line-height: 2em;
+  font-family: 'Dancing Script', cursive;
+}
+
+.heading2{
+  /* height: 70px; */
+  line-height: 70px;
+  /* text-align: center; */
+  background-color: #ffb2b2;
+  width: 1000px;
+  margin: auto;
+  font-size: 20px;
+  line-height: 2em;
+  font-family: 'Dancing Script', cursive;
+}
+
+.heading3{
+  /* height: 70px; */
+  line-height: 70px;
+  /* text-align: center; */
+  background-color: #ffb2b2;
+  width: 1000px;
+  margin: auto;
+  font-size: 20px;
+  line-height: 2em;
+  font-family: 'Dancing Script', cursive;
+}
