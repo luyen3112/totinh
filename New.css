@@ -323,3 +323,8 @@ body {
   transform: translate(-50%, -50%);
   margin: 0 auto;
 }
+
+.button-3:hover,
+.button-3:focus {
+  background-color: #F082AC;
+}
